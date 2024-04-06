@@ -16,7 +16,7 @@ public class Main {
 		int n3 = 3;
 		int n4 = 4; 
 		int n5 = 5;
-		
+		//Comentario
 		double promedio = sumar(n1, n2, n3, n4, n5)/5.0;
 		System.out.println("Promedio= "+  promedio);
 	}
